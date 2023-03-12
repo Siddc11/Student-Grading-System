@@ -1,1 +1,1 @@
-# Student-Grading-System
+# Student-Result-Management-System
